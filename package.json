@@ -1,0 +1,22 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "code academy parcel service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherrera1208/caps.git"
+  },
+  "author": "carlos a. herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherrera1208/caps/issues"
+  },
+  "homepage": "https://github.com/cherrera1208/caps#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
