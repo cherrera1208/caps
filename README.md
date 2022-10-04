@@ -219,4 +219,4 @@ If your server, vendor and driver apps are all running according to the lab inst
 
 ## Phase 02:UML
 
-![UML lab12](./img/401UML_lab12.jpg)
+![uml](./img/401UML_lab12.jpg)
